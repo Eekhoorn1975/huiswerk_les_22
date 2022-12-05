@@ -1,0 +1,11 @@
+footer {
+    min-height: 200px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+#contact { 
+    background-color: lightgray;
+    border-radius: 5px;
+}
